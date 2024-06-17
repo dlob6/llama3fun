@@ -22,7 +22,7 @@ Go to https://pytorch.org/get-started/locally/ and select the pytorch version co
 
 * Using a CPU on Linux: `$ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu`
 
-* Using a Macbook:  `$ pip3 install torch torchvision torchaudio`
+* Using a Macbook:  `$ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu`
 
 Install other libraries used in this repo
 
